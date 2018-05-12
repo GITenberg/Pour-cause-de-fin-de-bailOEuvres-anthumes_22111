@@ -14,6 +14,8 @@ creator:
     - http://en.wikipedia.org/wiki/Alphonse_Allais
     - http://fr.wikipedia.org/wiki/Alphonse_Allais
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22111#Pour-cause-de-fin-de-bailOEuvres-anthumes
 gutenberg_bookshelf: FR Humour
 gutenberg_issued: '2007-07-20'
 gutenberg_type: Text
